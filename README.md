@@ -1,6 +1,6 @@
 # ProjectXLA
 # Giao diện
-![image](https://github.com/kienyk02/ProjectXLA/assets/125575065/f8aa7720-c806-42c7-b91d-cab5a40b2dce)
+![image](https://github.com/kienyk02/ProjectXLA/assets/125575065/b7ade0c9-8e21-49f2-83b2-eb71016c5afe)
 # Chọn Ảnh
 ![image](https://github.com/kienyk02/ProjectXLA/assets/125575065/ce0bee3c-595b-43d8-978f-9dd6800eaa7f)
 # Chọn thuật toán
